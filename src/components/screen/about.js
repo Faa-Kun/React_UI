@@ -43,7 +43,7 @@ export default function About() {
             >
               <h5>Suhaili Faruq</h5>
               <h5>A11.2018.11570</h5>
-              <h5>Teknik Informatik</h5>
+              <h5>Teknik Informatika</h5>
             </div>
           </center>
           <div>
